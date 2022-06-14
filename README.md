@@ -2,7 +2,7 @@
  Meu nome é Agnaldo, sou designer gráfico formado e estou fazendo a transição para o mundo dev pelo DevInHouse , um programa de aceleração de carreira em parceria com SENAI/SC.
  
  ##
- <div align="center">
+ <div >
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=agjr95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agjr95&hide=html,scss,css&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
