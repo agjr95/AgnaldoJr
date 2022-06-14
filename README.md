@@ -1,9 +1,8 @@
  # Hello, World!
  
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agjr95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agjr95&hide=html,scss,css&layout=compact&langs_count=7&theme=tokyonight"/>
- </div>
+ 
+ <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agjr95&hide=html,scss,css&layout=compact&langs_count=7&theme=tokyonight"/>
+ 
  
  ## Linguagens e ferramentas
  
