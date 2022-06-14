@@ -8,6 +8,7 @@
  <img  width="470em" height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agjr95&hide=html,scss,css&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
  
+ ##
  
  ## Linguagens e ferramentas
  
