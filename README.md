@@ -12,7 +12,7 @@
  
  ## Linguagens e ferramentas
  
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Agnaldo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Agnaldo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Agnaldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
