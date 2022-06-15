@@ -10,7 +10,7 @@
  
  ##
  
- ## Linguagens e ferramentas
+ <h2 align="center"> Linguagens e ferramentas </h2>
  
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Agnaldo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
