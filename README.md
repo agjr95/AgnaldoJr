@@ -2,7 +2,7 @@
  Meu nome é Agnaldo, sou designer gráfico formado e estou fazendo a transição para o mundo dev pelo DevInHouse , um programa de aceleração de carreira em parceria com SENAI/SC.
    <div>   
   <a href="https://www.linkedin.com/in/agnaldo-junior-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:agnaldo.jnr1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:agnaldo.jnr1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>  
  
