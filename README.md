@@ -6,7 +6,7 @@
 </div>
  <div>
  <br>
-  <h2 align="center" > 🔎 You can find me in ... </h2>
+  <h2 align="center" > 🔎 You can find me on ... </h2>
  
    <div style="display: inline_block" align="center"> 
   <a href="https://www.linkedin.com/in/agnaldo-junior-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
