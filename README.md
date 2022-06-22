@@ -1,21 +1,32 @@
- # Olá, Mundo!
- Meu nome é Agnaldo, sou designer gráfico formado e estou fazendo a transição para o mundo dev pelo DevInHouse , um programa de aceleração de carreira em parceria com SENAI/SC.
-   <div>   
-  <a href="https://www.linkedin.com/in/agnaldo-junior-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-
-</div>  
+<h1 align="center">👋 Hey there, i'm Agnaldo! </h1>
+<div align="center">
+<br>
+ <p>I love learn new musical instruments, try some languages, travel and draw cool stuff 🎨</p>
+ <p>I'm  graduated in Graphic Design but currently on a carrer transition to Web FullStack Development 🚀</p>
+</div>
+ <div>
+ <br>
+  <h2 align="center" > 🔎 You can find me in ... </h2>
  
- ##
+   <div style="display: inline_block" align="center"> 
+  <a href="https://www.linkedin.com/in/agnaldo-junior-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="mailto:agnaldo.jnr1995@gmail.com?subject=Olá%20Agnaldo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.instagram.com/agnaldo95/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+   </div> 
+ </div>
+<br>
+ <br>
+<hr>
+<br>
  <div align="center">
  <a href="https://github.com/agjr95">
  <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=agjr95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agjr95&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
+ <br>
  
- ##
- 
- <h2 align="center"> Linguagens e ferramentas </h2>
+ <h2 align="center"> 🌱 I'm currently learning ... </h2>
  
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Agnaldo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
