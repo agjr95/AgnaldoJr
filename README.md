@@ -2,7 +2,7 @@
 <div align="center">
 <br>
  <p>I love learn new musical instruments, try some languages, travel and draw cool stuff 🎨</p>
- <p>I'm  graduated in Graphic Design but currently on a carrer transition to Web FullStack Development 🚀</p>
+ <p>I'm  graduated in Graphic Design but currently on a career transition to Web FullStack Development 🚀</p>
 </div>
  <div>
  <br>
