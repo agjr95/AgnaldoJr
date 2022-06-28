@@ -31,8 +31,8 @@
  <br>
  <div align="center">
  <a href="https://github.com/agjr95"><br>
- <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=agjr95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agjr95&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img align="center"  height="180em"  src="https://github-readme-stats.vercel.app/api?username=agnaldobrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldobrito&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
  <hr>
 
@@ -40,6 +40,6 @@
 
  <div align="center">
  
- ![Snake animation](https://github.com/agjr95/agjr95/blob/output/github-contribution-grid-snake.svg)  
+ ![Snake animation](https://github.com/agnaldobrito/agnaldobrito/blob/output/github-contribution-grid-snake.svg)  
   
  </div>
