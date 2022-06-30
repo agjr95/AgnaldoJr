@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, i'm Agnaldo! </h1>
 <div align="center">
- <p>I love learn new musical instruments, try some languages, travel and draw cool stuff 🎨</p>
+ <p>I love learn new musical instruments,coding, try some languages, travel and draw cool stuff 🎨</p>
  <p>I'm  graduated in Graphic Design but currently on a career transition to Web FullStack Development 🚀</p>
 </div>
 <br>
