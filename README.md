@@ -8,7 +8,7 @@
   <h2 align="center" > 🔎 You can find me on ... </h2>
  
    <div style="display: inline_block" align="center"> <br>
-  <a href="agnaldo.jnr1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-1F2D52?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:agnaldo.jnr1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-1F2D52?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/agnaldo-junior-dev"><img src="https://img.shields.io/badge/LinkeDin-1F2D52?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/agnaldo95/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1F2D52?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
    </div> 
